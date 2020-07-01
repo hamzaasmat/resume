@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="618" viewBox="0 0 1080 618">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 150px;
+        font-family: Hind;
+        font-weight: 500;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Logo_txt" data-name="Logo txt" class="cls-1">
+    <g id="V">
+      <path class="cls-2" d="M708.924,67.082l-51.651,49.285L858.442,457.254H897.86L1080,67.082V0h-74.76V67.082L874.753,354.577Z"/>
+    </g>
+    <g id="X">
+      <path class="cls-2" d="M475.51,229.473l-94.041-94.637L328.42,81.451,316.364,69.318V1.373h77.161V69.318l120.566,121.33V268.3L395.937,387.2V460H316.364V392.055L475.51,231.9"/>
+      <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-2" d="M548.581,231.9l94.041,94.637,53.049,53.385,12.056,12.133V460H630.565V392.055L510,270.725V193.074l118.154-118.9V1.373h79.573V69.318L548.581,229.473"/>
+    </g>
+    <g id="E">
+      <rect y="1.375" width="289.094" height="67.281"/>
+      <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" y="197.719" width="169.094" height="67.281"/>
+      <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" y="392.719" width="289.094" height="67.281"/>
+    </g>
+    <text id="SOLUTIONS" class="cls-3" x="-9" y="617">SOLUTIONS</text>
+  </g>
+</svg>
